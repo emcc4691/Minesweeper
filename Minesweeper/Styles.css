@@ -76,3 +76,7 @@ body #main .button {
   width: 100px;
   padding: 10px;
 }
+body #main #mine-count {
+  margin: auto;
+  margin-top: 80px;
+}

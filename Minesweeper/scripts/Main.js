@@ -25,6 +25,8 @@ function Draw(game) {
         }
     }
 
+    $('#main').append('<div id="mine-count"></div>');
+
     $('#main').append('<div class="button">Play again.</div>');
 }
 
