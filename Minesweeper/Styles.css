@@ -66,3 +66,13 @@ body #main #game .row:first-child .cell {
 body #main #game .row:last-child .cell {
   border-bottom: solid 2px black;
 }
+body #main .button {
+  margin: auto;
+  margin-top: 80px;
+  border: solid 3px teal;
+  background: cadetblue;
+  color: white;
+  font-family: monospace;
+  width: 100px;
+  padding: 10px;
+}

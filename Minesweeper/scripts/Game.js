@@ -90,20 +90,20 @@ Game.prototype.highlightCell = function (cellID) {
 }
 
 Game.prototype.markWithFlag = function (cellID) {
+    $('#' + cellID).children().remove();
     $('#' + cellID).attr('flagged', flagStage.Flagged);
     $('#' + cellID).append('<img class="cell-image" src="images/flag.png" />');
-    $('.cell-image').click($('.cell-image').parent().click());
-    $('#' + cellID).off()
 }
 
 Game.prototype.markWithQuestion = function (cellID) {
+    $('#' + cellID).children().remove();
     $('#' + cellID).attr('flagged', flagStage.Possible);
     $('#' + cellID).append('<img class="cell-image" src="images/question.png" />');
 }
 
 Game.prototype.showUnmarkedCell = function (cellID) {
+    $('#' + cellID).children().remove();
     $('#' + cellID).attr('flagged', flagStage.None);
-    // TODO - remove question image
 }
 
 CreateCell = function (cellID) {

@@ -3,7 +3,8 @@
 
     Draw(game);
     game.loadMines();
-    AddCellClickEvents();
+    $('.cell').click(ClickCell);
+    $('.button').click(function () { location.reload(); })
 }
 
 function Draw(game) {
@@ -23,20 +24,20 @@ function Draw(game) {
             cellIDs.push(cellID);
         }
     }
-}
 
-function AddCellClickEvents() {
-    $('.cell').click(ClickCell);
+    $('#main').append('<div class="button">Play again.</div>');
 }
 
 function ClickCell(e) {
-    if (!game.isPlaying || $(e.target).attr('displayed'))
+    var cell = e.target.classList.contains("cell") ? e.target : e.target.parentElement;
+
+    if (!game.isPlaying || $(cell).attr('displayed'))
         return;
 
     if (e.which === 1) // left button
-        game.showCellContent($(e.target).attr('id'));
+        game.showCellContent($(cell).attr('id'));
     else if (e.which === 3) // right button
-        game.flagCell($(e.target).attr('id'));
+        game.flagCell($(cell).attr('id'));
 }
 
 document.addEventListener('DOMContentLoaded', Initialise);
