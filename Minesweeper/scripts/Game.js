@@ -29,8 +29,8 @@ Game.prototype.isCellAMine = function (cellID) {
 }
 
 Game.prototype.createMine = function () {
-    var row = Math.round(Math.random() * this.numberOfRows);
-    var column = Math.round(Math.random() * this.numberOfColumns);
+    var row = Math.round(Math.random() * (this.numberOfRows - 1));
+    var column = Math.round(Math.random() * (this.numberOfColumns - 1));
 
     return new Mine(row, column);
 }
