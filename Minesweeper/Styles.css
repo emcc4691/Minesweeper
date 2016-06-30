@@ -1,0 +1,68 @@
+﻿body #main {
+  text-align: center;
+}
+body #main #game {
+  margin-top: 100px;
+}
+body #main #game .row {
+  height: 52px;
+}
+body #main #game .row .cell {
+  border: solid 1px black;
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+  vertical-align: top;
+}
+body #main #game .row .cell .cell-image {
+  height: 50px;
+  display: block;
+}
+body #main #game .row .cell:first-child {
+  border-left: solid 2px black;
+}
+body #main #game .row .cell:last-child {
+  border-right: solid 2px black;
+}
+body #main #game .row .cell.highlight-cell {
+  border: solid 1px red;
+  background-color: red;
+}
+body #main #game .row .cell.mine-cleared {
+  background-color: #ddd;
+}
+body #main #game .row .cell.mine-cleared div {
+  padding: 10px;
+  font-size: 25px;
+}
+body #main #game .row .cell.mine-cleared .mines-1 {
+  color: red;
+}
+body #main #game .row .cell.mine-cleared .mines-2 {
+  color: lightseagreen;
+}
+body #main #game .row .cell.mine-cleared .mines-3 {
+  color: blue;
+}
+body #main #game .row .cell.mine-cleared .mines-4 {
+  color: darkcyan;
+}
+body #main #game .row .cell.mine-cleared .mines-5 {
+  color: coral;
+}
+body #main #game .row .cell.mine-cleared .mines-6 {
+  color: cadetblue;
+}
+body #main #game .row .cell.mine-cleared .mines-7 {
+  color: deepskyblue;
+}
+body #main #game .row .cell.mine-cleared .mines-8 {
+  color: hotpink;
+}
+body #main #game .row:first-child .cell {
+  border-top: solid 2px black;
+  border-bottom: solid 2px black;
+}
+body #main #game .row:last-child .cell {
+  border-bottom: solid 2px black;
+}

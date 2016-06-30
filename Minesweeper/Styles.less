@@ -1,0 +1,87 @@
+﻿body #main {
+	text-align: center;
+
+	#game {
+		margin-top: 100px;
+
+		.row {
+			height: 52px;
+
+			.cell {
+				border: solid 1px black;
+				display: inline-block;
+				height: 50px;
+				width: 50px;
+				vertical-align: top;
+
+				.cell-image {
+					height: 50px;
+					display: block;
+				}
+			}
+
+			.cell:first-child {
+				border-left: solid 2px black;
+			}
+
+			.cell:last-child {
+				border-right: solid 2px black;
+			}
+
+			.cell.highlight-cell {
+				border: solid 1px red;
+				background-color: red;
+			}
+
+			.cell.mine-cleared {
+				background-color: #ddd;
+
+				div {
+					padding: 10px;
+					font-size: 25px;
+				}
+
+				.mines-1 {
+					color: red;
+				}
+
+				.mines-2 {
+					color: lightseagreen;
+				}
+
+				.mines-3 {
+					color: blue;
+				}
+
+				.mines-4 {
+					color: darkcyan;
+				}
+
+				.mines-5 {
+					color: coral;
+				}
+
+				.mines-6 {
+					color: cadetblue;
+				}
+
+				.mines-7 {
+					color: deepskyblue;
+				}
+
+				.mines-8 {
+					color: hotpink;
+				}
+			}
+		}
+
+		.row:first-child .cell {
+			border-top: solid 2px black;
+			border-bottom: solid 2px black;
+		}
+
+		.row:last-child .cell {
+			border-bottom: solid 2px black;
+		}
+	}
+}

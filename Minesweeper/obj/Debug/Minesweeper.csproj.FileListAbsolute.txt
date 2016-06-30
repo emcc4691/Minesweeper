@@ -1,0 +1,66 @@
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\bin\ApplicationInsights.config
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\bin\roslyn\csc.exe
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\bin\roslyn\System.Collections.Immutable.dll
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\bin\roslyn\vbc.exe
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\bin\roslyn\VBCSCompiler.exe
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\bin\roslyn\VBCSCompiler.exe.config
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\bin\Minesweeper.dll.config
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\bin\Minesweeper.dll
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\bin\Minesweeper.pdb
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\bin\Microsoft.AI.Web.dll
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\bin\Microsoft.AI.WindowsServer.dll
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\bin\Microsoft.ApplicationInsights.dll
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\bin\Microsoft.AI.Web.xml
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\bin\Microsoft.AI.WindowsServer.xml
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\bin\Microsoft.ApplicationInsights.xml
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csprojResolveAssemblyReference.cache
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.dll
+c:\users\emma.mcconnell\documents\visual studio 2015\Projects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Projects\Minesweeper\Minesweeper\bin\ApplicationInsights.config
+C:\Projects\Minesweeper\Minesweeper\bin\roslyn\csc.exe
+C:\Projects\Minesweeper\Minesweeper\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\Minesweeper\Minesweeper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\Minesweeper\Minesweeper\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\Minesweeper\Minesweeper\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\Minesweeper\Minesweeper\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\Minesweeper\Minesweeper\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\Minesweeper\Minesweeper\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\Minesweeper\Minesweeper\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\Minesweeper\Minesweeper\bin\roslyn\vbc.exe
+C:\Projects\Minesweeper\Minesweeper\bin\roslyn\VBCSCompiler.exe
+C:\Projects\Minesweeper\Minesweeper\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\Minesweeper\Minesweeper\bin\Minesweeper.dll.config
+C:\Projects\Minesweeper\Minesweeper\bin\Minesweeper.dll
+C:\Projects\Minesweeper\Minesweeper\bin\Minesweeper.pdb
+C:\Projects\Minesweeper\Minesweeper\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projects\Minesweeper\Minesweeper\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projects\Minesweeper\Minesweeper\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projects\Minesweeper\Minesweeper\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projects\Minesweeper\Minesweeper\bin\Microsoft.AI.Web.dll
+C:\Projects\Minesweeper\Minesweeper\bin\Microsoft.AI.WindowsServer.dll
+C:\Projects\Minesweeper\Minesweeper\bin\Microsoft.ApplicationInsights.dll
+C:\Projects\Minesweeper\Minesweeper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\Minesweeper\Minesweeper\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projects\Minesweeper\Minesweeper\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projects\Minesweeper\Minesweeper\bin\Microsoft.AI.Web.xml
+C:\Projects\Minesweeper\Minesweeper\bin\Microsoft.AI.WindowsServer.xml
+C:\Projects\Minesweeper\Minesweeper\bin\Microsoft.ApplicationInsights.xml
+C:\Projects\Minesweeper\Minesweeper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csprojResolveAssemblyReference.cache
+C:\Projects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.dll
+C:\Projects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
